@@ -1,0 +1,11 @@
+﻿{
+  "profiles": {
+    "Game": {
+      "commandName": "Executable",
+      "workingDirectory": "C:/Users/alex.bourne.041_acce/Desktop/horror game/HorrorGamesLessons",
+      "executablePath": "C:/Program Files (x86)/Flax/Flax_master/Binaries/Editor/Win64/Development/FlaxEditor.exe",
+      "commandLineArgs": "-project \"C:/Users/alex.bourne.041_acce/Desktop/horror game/HorrorGamesLessons\"",
+      "nativeDebugging": false
+    }
+  }
+}
